@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "src\\com\\tutorial",
+        "bin\\com\\tutorial"
+    ],
+    "java.project.outputPath": "bin\\com\\tutorial",
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "vscode-icons",
+}
