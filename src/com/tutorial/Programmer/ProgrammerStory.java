@@ -1,4 +1,4 @@
-package ProgrammerStory;
+package Programmer;
 
 public class ProgrammerStory {
     private String galau;
